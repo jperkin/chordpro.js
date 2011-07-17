@@ -1,0 +1,18 @@
+#
+# This is a test file, hopefully using all ChordPro format options.
+#
+{title:This Is The Title}
+{subtitle:Jonathan Perkin 2011}
+{comment:This is a comment}
+This is my [C]song, it's not very [C/E]good
+the words don't make [F]sense, the lyrics don't [G]rhyme.
+
+It's only to [Am7]test my [F]program to [C/E]see if it [F]works
+I [Dm7]hope it [F]does or [Gsus4]else I'll [G]be [C]sad.
+
+{soc}
+[F]This is the [C]chorus, [G]that was the [C]verse.
+[F]Lalala[C]la[G7]la[C]la[F]la[G]lala[C]la.
+{end_of_chorus}
+
+{comment:All together now!}
